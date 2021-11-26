@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"task2.dao"},{"l":"task2.dao.creator"},{"l":"task2.dao.creator.impl"},{"l":"task2.dao.impl"},{"l":"task2.entity"},{"l":"task2.entity.criteria"},{"l":"task2.main"},{"l":"task2.service"},{"l":"task2.service.impl"},{"l":"task2.service.validation"},{"l":"task2.service.validation.impl"}]

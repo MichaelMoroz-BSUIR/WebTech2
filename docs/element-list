@@ -1,0 +1,11 @@
+task2.dao
+task2.dao.creator
+task2.dao.creator.impl
+task2.dao.impl
+task2.entity
+task2.entity.criteria
+task2.main
+task2.service
+task2.service.impl
+task2.service.validation
+task2.service.validation.impl
